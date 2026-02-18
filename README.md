@@ -38,4 +38,4 @@ The project includes a **Streamlit Dashboard** that features:
 3. Run the dashboard: `streamlit run app.py`.
 
 ---
-*Developed as part of a Master's level Data Science Capstone at Arizona State University.*
+
